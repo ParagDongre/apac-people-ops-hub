@@ -1,0 +1,6 @@
+{
+  "name": "APAC People Ops Hub",
+  "description": "Multi-country HR operations system for remote APAC workforces featuring compliance onboarding, automated HRIS change audit, privacy controls, payroll validation, and process documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
